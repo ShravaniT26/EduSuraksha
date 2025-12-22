@@ -131,7 +131,7 @@ export function ParentDashboard() {
       id: 3,
       title: 'Fee Payment',
       description: 'Complete pending semester fee',
-      urgency: 'high',
+      urgency: 'One paid one remaining',
       estimatedTime: '10 min'
     }
   ];
